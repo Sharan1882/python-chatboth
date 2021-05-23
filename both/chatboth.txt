@@ -1,0 +1,7 @@
+who are you,nx,i'm you'r persinol assistan,nx,
+hi hello hey,nx,hey there,nx,hello,nx,hi,nx,hola,nx,
+which medicines you have,nx,panadole,nx,dettol,nx,tey,nx,plane tea,nx,ship tra,nx,hello world,nx,
+what is you'r address,nx,trincomalee road,nx,
+what's the closing time?,nx,8 PM,nx,
+good morning,nx,good morning,nx,good morning, have a nice day,nx,
+when shop opening,nx,shop open at 8 am,nx,8 am,nx,8 o clock,nx,
